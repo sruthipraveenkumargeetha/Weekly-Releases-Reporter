@@ -1,2 +1,2 @@
 # Weekly-Releases-Reporter
-Building a cron job to send weekly releases of movies by mail
+Building a cron job to send weekly movie releases by mail
